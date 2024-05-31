@@ -1,0 +1,19 @@
+/* 
+    same - font size = 28px, font-family = ..., 
+    first - black background, white text color, bold weight
+    second - yellow background
+*/
+
+.one, .two {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.one {
+    background-color: #800080;
+    color: rgb(175,238,238);
+}
+
+.two {
+    background-color: #C4A484;
+}
